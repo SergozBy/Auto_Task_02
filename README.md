@@ -1,1 +1,2 @@
 [![Java CI with Gradle](https://github.com/SergozBy/Auto_Task_02/actions/workflows/gradle.yml/badge.svg)](https://github.com/SergozBy/Auto_Task_02/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/e4l7qxgq5gg30f9f?svg=true)](https://ci.appveyor.com/project/Sergey79535/auto-task-02)
