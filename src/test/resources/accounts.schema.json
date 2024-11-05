@@ -6,7 +6,7 @@
     "type": "object",
     "additionalProperties": false,
     "required": [
-      "id",
+      "index",
       "name",
       "number",
       "balance",
